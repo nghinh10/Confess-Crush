@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    titleWeb: "Quà tặng 20/10",
+    introTitle: 'Những bông hồng ban tuyển sinh',
+    introDesc: `Đã sẵn sàng nhận quà chưa`,
+    btnIntro: '^^Trước khi nhận quà có câu hỏi nho nhỏ ^^',
+    title: 'Ban tuyển sinh cần thơ "Tí Nị" dễ thương, đáng yêu nhất',
+    desc: 'Phải không?',
+    btnYes: 'Chắc chắn rồi',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    question: 'Cảm ơn mọi người đã xác nhận nhé, bây giờ mọi người sẵn sàng nhận quà chưa',
+    btnReply: 'Đã sẵn sàng',
+    reply: 'Tặng mọi người nè! ',
+    mess: 'Nhận dịp quốc tế Phụ nữ 20/10, em có đôi lời chúc ngắn gọn xin gửi đến những "Bông hoa" của Ban tuyển sinh là sẽ tay ôm nhiều hoa, giỏ đựng nhiều quà, được đi chơi xa, ăn uống thả ga, tiền không phải trả. Chúc chị em gặp nhiều may mắn và hạnh phúc mỗi ngày.',
+    messDesc: 'Không cần cảm động đến khóc đâu, mai mốt em order đồ ăn mọi người ủng hộ là được',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
